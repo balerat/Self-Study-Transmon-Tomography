@@ -39,7 +39,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Ermin", "=", "0"}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
-  RowBox[{"Ngmax", "=", "1"}], ";"}], "\n", 
+  RowBox[{"max", "=", "1"}], ";"}], "\n", 
  RowBox[{
   RowBox[{"Ngmin", "=", "0"}], ";"}], "\n", 
  RowBox[{
